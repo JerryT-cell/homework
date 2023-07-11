@@ -25,6 +25,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
   x86_64-darwin-21
 
 DEPENDENCIES
@@ -34,7 +35,7 @@ DEPENDENCIES
   yaml (~> 0.2.0)
 
 RUBY VERSION
-   ruby 2.7.3p183
+   ruby 2.7.8p225
 
 BUNDLED WITH
    2.1.4
